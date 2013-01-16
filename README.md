@@ -11,6 +11,9 @@ random numbers from a bunch of different statistical distributions.
 The python random library uses a Mersenne Twister algorithm, hence the
 name 'Twister'.
 
+There is a convenient Python client library for twister at:
+https://github.com/ccnmtl/twisterclient/
+
 # HTTP API
 
 (for the examples, we'll assume that Twister is running at
